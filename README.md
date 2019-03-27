@@ -60,6 +60,7 @@ Pour ajouter (ou enlever) votre nom à la liste des signataires, 2 solutions :
 * [Yann Autissier](https://github.com/aya), architecte technique
 * [Kevin Auvinet](https://github.com/ke20), développeur
 * [Mathieu Barthelemy](https://www.linkedin.com/in/mathieubarthelemy/), Développeur full stack
+* [Theophile Bayet](), Ingénieur informatique
 * [Jean Belicot](https://www.linkedin.com/in/jean-belicot-a3408886/), sys-admin, développeur
 * [Hicham Bellahcene](https://github.com/hbellahc), développeur freelance
 * [Guillaume Béranger](https://www.linkedin.com/in/guillaumeberanger/), développeur
